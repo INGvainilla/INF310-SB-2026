@@ -1,0 +1,37 @@
+ARRAY|Es un conjunto de datos primitivos o básicos almacenados en posiciones contiguas de memoria.
+ARBOL BINARIO|Estructura de datos jerárquica donde cada nodo tiene como máximo dos hijos (izquierdo y derecho).
+ALGORITMO|Conjunto de pasos lógicos, definidos y finitos que resuelven un problema o realizan una tarea.
+BUCLE|Secuencia de instrucciones de código que se repite hasta que se cumple una condición específica.
+CLASE|Plantilla para crear objetos en la Programación Orientada a Objetos. Define atributos y métodos.
+COMPILADOR|Programa que traduce el código fuente escrito en un lenguaje de alto nivel a lenguaje de máquina.
+CONSTRUCTOR|Método especial de una clase que se ejecuta automáticamente al crear un nuevo objeto.
+DEBUG|Proceso de identificar, analizar y corregir errores (bugs) en el código de un programa.
+ENCAPSULAMIENTO|Mecanismo que oculta los datos internos de un objeto, protegiéndolos mediante modificadores de acceso.
+HERENCIA|Pilar de la POO que permite a una clase hija heredar los atributos y métodos de otra clase padre.
+INTERFAZ|Contrato que define qué métodos debe tener una clase, sin programar cómo funcionan por dentro.
+METODO|Bloque de código dentro de una clase que contiene una serie de instrucciones para realizar una acción.
+POLIMORFISMO|Capacidad de un objeto o método de tomar muchas formas o comportarse de distintas maneras según el contexto.
+VARIABLE|Espacio reservado en la memoria RAM para almacenar un dato que puede cambiar durante la ejecución.
+RECURSIVIDAD|Técnica de programación donde una función se llama a sí misma para resolver un problema más pequeño.
+GRAFO|Conjunto de nodos (vértices) conectados por enlaces (aristas) para representar relaciones complejas.
+PILA|Estructura de datos LIFO (Last In, First Out) donde el último elemento en entrar es el primero en salir.
+COLA|Estructura de datos FIFO (First In, First Out) donde el primer elemento en entrar es el primero en salir.
+LISTA ENLAZADA|Colección lineal de elementos de datos llamados nodos, donde cada nodo apunta al siguiente nodo.
+ARBOL AVL|Árbol binario de búsqueda auto-balanceado donde la diferencia de altura de los hijos es como máximo uno.
+TABLA HASH|Estructura de datos que asocia llaves con valores utilizando una función hash para búsquedas rápidas.
+COMPLEJIDAD TEMPORAL|Medida de la cantidad de tiempo que toma un algoritmo en ejecutarse en función del tamaño de la entrada.
+NOTACION BIG O|Representación matemática usada para describir el peor caso del comportamiento de un algoritmo.
+BASE DE DATOS|Sistema estructurado que permite almacenar, organizar, consultar y gestionar grandes volúmenes de información.
+DICCIONARIO|Estructura de datos asociativa que almacena pares de clave-valor.
+JSON|Formato ligero de intercambio de datos, legible para humanos y fácil de parsear para computadoras.
+API|Conjunto de reglas y especificaciones que permiten que diferentes aplicaciones se comuniquen entre sí.
+SOCKET|Punto de conexión bidireccional entre dos programas que se comunican a través de una red.
+HEBRA|Unidad básica de ejecución de CPU que comparte recursos con otras hebras del mismo proceso.
+SISTEMA OPERATIVO|Software principal que gestiona los recursos de hardware y provee servicios a los programas.
+COMPILACION|Proceso de conversión de código fuente de alto nivel a un archivo ejecutable binario.
+INTERPRETE|Programa que ejecuta el código fuente línea por línea directamente, sin necesidad de compilarlo antes.
+PROGRAMACION FUNCIONAL|Paradigma de programación centrado en el uso de funciones matemáticas puras y datos inmutables.
+CONCURRENCIA|Capacidad de ejecutar múltiples tareas o procesos de forma simultánea o intercalada.
+EXCEPCION|Evento inusual o error que ocurre durante la ejecución de un programa e interrumpe su flujo normal.
+PATRON DE DISENO|Solución estandarizada y reutilizable a problemas comunes de diseño de software.
+FRAMEWORK|Conjunto de herramientas, bibliotecas y reglas preestablecidas para facilitar el desarrollo de software.
